@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sphesihle</h1>
-<h3 align="center">A passionate software developer from South Africa</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+repository;My+name+is+Sphesihle+Mhlongo)](https://git.io/typing-svg)
+<h3 align="center">A passionate Software developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sphesihlemhlongo&label=Profile%20views&color=0e75b6&style=flat" alt="sphesihlemhlongo" /> </p>
-
-- 🔭 I’m currently working on **InsightHub**
 
 - 🌱 I’m currently learning **react**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
 - 👨‍💻 All of my projects are available at [https://sphesihlemhhlongo.netlify.app/projects](https://sphesihlemhhlongo.netlify.app/projects)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **mhlongosihle49@gmail.com**
 
