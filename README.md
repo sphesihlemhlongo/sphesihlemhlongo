@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+repository;My+name+is+Sphesihle+Mhlongo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+Profile;My+name+is+Sphesihle+Mhlongo)](https://git.io/typing-svg)
 <h3 align="center">A passionate Software developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sphesihlemhlongo&label=Profile%20views&color=0e75b6&style=flat" alt="sphesihlemhlongo" /> </p>
