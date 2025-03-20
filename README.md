@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
-- 👨‍💻 All of my projects are available at [https://sphesihlemhhlongo.netlify.app/projects](https://sphesihlemhhlongo.netlify.app/projects)
+- 👨‍💻 Some of my projects are available at [https://sphesihlemhhlongo.netlify.app/projects](https://sphesihlemhhlongo.netlify.app/projects)
 
 - 📫 How to reach me **mhlongosihle49@gmail.com**
 
