@@ -1,26 +1,67 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+Profile;My+name+is+Sphesihle+Mhlongo)](https://git.io/typing-svg)
-<h3 align="center">A passionate Software developer from South Africa</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=700&color=F7DF1E&vCenter=true&width=800&height=70&lines=Hey+there%2C+I'm+Sphesihle+Mhlongo!;I+code%2C+I+design%2C+I+dream+in+logic.;Building+AI-powered+solutions+with+heart+%F0%9F%A7%96%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sphesihlemhlongo&label=Profile%20views&color=0e75b6&style=flat" alt="sphesihlemhlongo" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **react**
+![Profile views](https://komarev.com/ghpvc/?username=sphesihlemhlongo&label=Profile+visits&color=blueviolet)
 
-- 👯 I’m looking to collaborate on **machine learning projects**
+🎯 *Welcome to the digital garage where my ideas race, collide, and take flight.*  
+From sleek UIs to machine-learning marvels, I bring code to life with vision and precision.
 
-- 👨‍💻 Some of my projects are available at [https://sphesihlemhhlongo.netlify.app/projects](https://sphesihlemhhlongo.netlify.app/projects)
+---
 
-- 📫 How to reach me **mhlongosihle49@gmail.com**
+### 🚀 About Me
 
-- 📄 Know about my experiences [www.linkedin.com/in/sphesihle-mhlongo-937858267](www.linkedin.com/in/sphesihle-mhlongo-937858267)
+- 🧠 Currently leveling up with **React**, while sipping espresso and pushing pixels.
+- 🤝 Actively seeking collabs in **Machine Learning** & **AI-driven platforms**.
+- 🔭 Always building — check out my evolving portfolio 👉 [**My Projects**](https://sphesihlemhlongo.netlify.app/projects)
+- 📬 Let’s talk tech, creativity, or community: **mhlongosihle49@gmail.com**
+- 💼 Full resume & timeline: [**LinkedIn**](https://www.linkedin.com/in/sphesihle-mhlongo-937858267)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sphesihle-mhlongo-937858267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sphesihle-mhlongo-937858267" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deesaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deesaira" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌟 Highlight Projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sphe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sphe" /></a></p><br><br>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🛡️ **Guardrail Sentinel** | Real-time prompt injection detection tailored for business agents. | Python, FastAPI, PostgreSQL |
+| 💼 **JobIQ** | AI-powered interview simulator & job automation built in 20 hours during a hackathon. | Azure, React, OpenAI |
+| 🧠 **NeuroScope+** | Chrome extension analyzing cognitive health from user behavior. | JavaScript, Web APIs, ML |
+| 💬 **Curonex** | AI system for lung and brain diagnostics from voice and webcam. | TensorFlow, Python, WebRTC |
+
+> 🧠 *Psych tip:* People remember things better when tied to a story. So, each project tells one.
+
+---
+
+### 🧰 Tech Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,java,python,docker,tensorflow,mongodb,postgresql,git,flutter,dart,linux" />
+</div>
+
+---
+
+### 📣 Where I Practice
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sphesihle-mhlongo-937858267)
+[![HackerRank](https://img.shields.io/badge/HackerRank-My%20Solutions-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/deesaira)
+[![Netlify](https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://sphesihlemhlongo.netlify.app/projects)
+
+---
+
+### ⚡ Fun Facts
+
+- 🧩 I love solving complex problems — like debugging someone else’s 3AM code.
+- 🎨 I sometimes use Blender just to design ideas no one's built yet.
+- 🌍 I proudly code from **South Africa**, but my dreams roam globally.
+- 💡 I believe software should be empathetic, not just efficient.
+
+---
+
+### 🧭 Let's Build the Future
+
+> “Innovation is seeing what everybody has seen and thinking what nobody has thought.”  
+> &mdash; Dr. Albert Szent-Györgyi
+
+Let’s reimagine what’s possible. Let’s build with intention. Let’s code with soul.
+
+</div>
